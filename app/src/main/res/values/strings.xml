@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Baca Komik Online</string>
+    <string name="about">about</string>
+    <string name="my_name">Mohamad Dani Prayitno</string>
+    <string name="email">mochdani2@gmail.com</string>
+    <string name="film_name">Nama Film</string>
+    <string name="detail">Detail</string>
+    <string name="film_detail">Film Detail</string>
+    <string name="genre">Genre</string>
+    <string name="film_genre">Film Genre</string>
+</resources>
